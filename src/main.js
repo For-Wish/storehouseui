@@ -24,7 +24,7 @@ require('@/assets/js/gt.js');
 // 绑定极验初始化方法到原型
 Vue.prototype.$initGeet=initGeetest;
 
-//全局引入axios
+//全局axios
 Vue.prototype.$axios = axios;
 
 //导入路由
